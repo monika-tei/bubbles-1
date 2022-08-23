@@ -4,7 +4,7 @@ main div {
   height: 100px;
   background-color: hotpink;
   position: absolute;
-  transition: all 5s;
+  transition: all 6s;
 }
 main {
   position: relative;
